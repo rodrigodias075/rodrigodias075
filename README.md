@@ -69,7 +69,9 @@
  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrigodias075&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrigodias075&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rodrigodias075&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rodrigodias075&show_icons=true&hide_border=true&theme=dark" width="37%" alt="Rodrigo Top Languages">
+
+
 
 
 
